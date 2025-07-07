@@ -1,16 +1,16 @@
 # Hi there! 👋 I'm Naveen Kumar  
 
-Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** and an enthusiastic learner exploring new technologies and tools. Currently, I'm focused on enhancing my skills in **JavaScript**, **Full Stack Development**, and **IoT Cloud Processing and Analytics**. Here's a little more about me and what I do:  
+Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** and an enthusiastic learner exploring new technologies and tools. Currently, I'm focused on enhancing my skills in **JavaScript**, **Full Stack Development**, Here's a little more about me and what I do:  
 
 ---
 
 ## 🚀 About Me  
 
-- 💻 **Final-year B.Tech Student**  
+- 💻 ** B.Tech 2025 GRADUATE**  
 - 🎯 Aspiring **Software Development Engineer** with an interest in **Full Stack Development**  
 - 🎓 Completed Java Full Stack training with **TNS India Foundation**, contributing to a **Placement Management System** project  
 - 📖 Currently learning **JavaScript**, preparing for interviews, and diving deeper into advanced programming concepts  
-- 🎨 Working on side projects like a **Book Rental Website**  
+- 🎨 Working on side projects like a ****  
 
 ---
 
