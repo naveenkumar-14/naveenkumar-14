@@ -10,13 +10,13 @@ Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** and
 - 🎯 Aspiring **Software Development Engineer** with an interest in **Full Stack Development**  
 - 🎓 Completed Java Full Stack training with **TNS India Foundation**, contributing to a **Placement Management System** project  
 - 📖 Currently learning **JavaScript**, preparing for interviews, and diving deeper into advanced programming concepts  
-- 🎨 Working on side projects like a ****  
+- 🎨 Working on side projects Placement Management System, GuestLog(Digital GuestBook)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Programming Languages:** Java, JavaScript, Python  
+- **Programming Languages:** Java, JavaScript,  
 - **Frontend Technologies:** HTML, CSS, JavaScript  
 - **Backend Technologies:** Java (Spring Boot),  
 - **Database:** MySQL  
